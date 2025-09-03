@@ -21,4 +21,4 @@ assignees: ''
 Attach a PNG/JPG image showing dimensions of your print with units (inches/cm) clearly visible.
 
 ## STL file
-Attach your STL file to be printed.
+Attach your STL file to be printed. Upload this as a zip file. 

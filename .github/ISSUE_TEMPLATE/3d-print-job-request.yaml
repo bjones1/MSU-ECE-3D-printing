@@ -1,0 +1,64 @@
+name: 3D print job request
+description: Submit this to begin the 3D printing process.
+title: "[PRINT] <title>"
+labels: ["Needs processing"]
+body:
+- type: dropdown
+  id: campus
+  attributes:
+    label: Campus
+    description: What campus are you at?
+    options:
+      - Coast
+      - Online
+      - Starkville
+    default: 2
+  validations:
+    required: true
+- type: dropdown
+  id: course
+  attributes:
+    label: Course/research group
+    description: What course or research group is this print job for?
+    options:
+      - Intro to ECE
+      - Capstone Design I
+      - Capstone Design II
+      - Research group.
+  validations:
+    required: true
+- type: input
+  id: team-id
+  attributes:
+    label: Team ID/research group name
+    description: What is your team's assigned ID or your research group's name?
+  validations:
+    required: true
+- type: textarea
+  id: use-case
+  attributes:
+    label: Use case
+    description: Letting us know how this is used helps us print more effectively. Is this cosmetic or structural? If structural, what axes is it loaded along? Will it be used outside, or in wet environments, meaning print with a different plastic?
+  validations:
+    required: true
+- type: textarea
+  id: special-instructions
+  attributes:
+    label: Special instructions
+    description: We print using PLA. Do you want a specific color, or multiple colors? A different filament material, such as a fuzzy skin, or a rubber material? If this is a print for a research group, include the group's name here.
+  validations:
+    required: false
+- type: textarea
+  id: 2d-cad
+  attributes:
+    label: 2D CAD image
+    description: Attach a PNG/JPG image showing dimensions of your print with units (inches/cm) clearly visible. STL files are dimensionless; this ensures your print is the correct size.
+  validations:
+    required: true
+- type: textarea
+  id: stl
+  attributes:
+    label: STL file
+    description: Attach a .zip file containing the STL file to print.
+  validations:
+    required: true

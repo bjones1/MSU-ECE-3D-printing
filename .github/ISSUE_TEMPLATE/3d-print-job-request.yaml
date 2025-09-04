@@ -1,6 +1,6 @@
 name: 3D print job request
 description: Submit this to begin the 3D printing process.
-title: "[PRINT] <add your title here>"
+title: "[PRINT] <add a title for your print here>"
 labels: ["needs processing"]
 body:
 - type: dropdown
@@ -45,20 +45,16 @@ body:
   id: special-instructions
   attributes:
     label: Special instructions
-    description: We print using PLA. Do you want a specific color, or multiple colors? A different filament material, such as a fuzzy skin, or a rubber material? If this is a print for a research group, include the group's name here.
+    description: We print using PLA. Do you want a specific color, or multiple colors? A different filament material, such as a fuzzy skin, or a rubber material?
   validations:
     required: false
 - type: textarea
-  id: 2d-cad
+  id: stl-2d-cad
   attributes:
-    label: 2D CAD image
-    description: Attach a PNG/JPG image showing dimensions of your print with units (inches/cm) clearly visible. STL files are dimensionless; this ensures your print is the correct size.
-  validations:
-    required: true
-- type: textarea
-  id: stl
-  attributes:
-    label: STL file
-    description: Attach a .zip file containing the STL file to print.
+    label: STL file/2D CAD image
+    description: |
+      Attach a .zip file containing:
+      - The STL file to print.
+      - A 2D CAD image in PNG/JPG format showing dimensions of your print with units (inches/cm) clearly visible. STL files are dimensionless; this ensures your print is the correct size.
   validations:
     required: true

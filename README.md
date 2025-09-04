@@ -4,6 +4,8 @@
 Printing process
 ----------------
 
+### Starkville campus
+
 To print a 3D part, create a [new
 issue](https://github.com/bjones1/MSU-ECE-3D-printing/issues/new/choose),
 attaching your STL file(s) and drawing file(s) in a .zip folder to the issue.
@@ -30,6 +32,10 @@ the print cycle:
 To check on your print job, look at the
 [issues](https://github.com/bjones1/MSU-ECE-3D-printing/issues).
 
+### Coast campus
+
+To do. Very important: use the correct slicer!
+
 Design process
 --------------
 
@@ -40,6 +46,18 @@ application) to create your print. Both provide free, powerful CAD capabilities.
 
 Available materials
 -------------------
+
+### Starkville campus
+
+Colors (all PLA):
+
+*   To do.
+
+Materials:
+
+*   To do.
+
+### Coast campus
 
 Colors (all PLA):
 

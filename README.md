@@ -1,6 +1,6 @@
 # 3D printing in ECE
 
-To print a 3D part, create a [new issue](https://github.com/bjones1/MSU-ECE-3D-printing/issues/new/choose), attaching your STL file to the issue. The 3D printing team will then add labels to your issue as it progresses through the print cycle:
+To print a 3D part, create a [new issue](https://github.com/bjones1/MSU-ECE-3D-printing/issues/new/choose), attaching your STL file(s) and drawing file(s) in a .zip folder to the issue. The 3D printing team will then add labels to your issue as it progresses through the print cycle:
 - In progress: The ECE printing team is checking your design to make sure it will print correctly.
 - Question: Further information is requested before the team can print your design.
 - Invalid: The design can't be printed. Please revise it according to the comments provided.

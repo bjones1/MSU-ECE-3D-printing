@@ -44,18 +44,36 @@ application, no install needed) and
 [Fusion360](https://www.autodesk.com/products/fusion-360/overview) (a desktop
 application) to create your print. Both provide free, powerful CAD capabilities.
 
-Available materials
+Available colors and materials
 -------------------
 
 ### Starkville campus
 
-Colors (all PLA):
+Most projects will work perfectly when printed with either PLA or ABS material. The brand of the material does not really matter unless that manufacturer has a specific color you prefer over others. If strength or durability is a concern, please consult the wiki tab at the top of the page or contact one of the ECE MakerSpace student engineers. A list of colors currently in stock will be available below. (Keep in mind that requesting a specific color may delay your print if it is not stocked in the MakerSpace)
 
-*   To do.
+**All Available Colors & Materials**
 
-Materials:
+*   [Bambulabs Filament](https://us.store.bambulab.com/collections/bambu-lab-3d-printer-filament?srsltid=AfmBOorsg6Ww-vjAtiNmjZ4JZ9Xyw0UA2En50vaNwGwJyrTa0CzcDNZ4)
+*   [Hatchbox Filament](https://www.hatchbox3d.com/collections/shop-all)
+*   [Overture Filament](https://overture3d.com/collections/all-filaments)
+*   [Polymaker Filament](https://us.polymaker.com/collections/all)
+*   [Prusa Filament](https://www.prusa3d.com/category/filament/)
 
-*   To do.
+**Colors & Materials Currently in Stock**
+
+*   Bambulabs PLA Basic (Silver) - 3.3 kg
+*   Bambulabs Pla Basic (Matte Gray) - 2.2 kg
+*   Bambulabs ABS (Black) - 0.5 kg
+*   Bambulabs ABS (Silver) - 28.3 kg
+*   Bambulabs PLA-CF (Black) - 0.5 kg
+*   Hatchbox ABS (Black) - 0.5 kg
+*   Hatchbox ABS (Silver) - 0.3 kg
+*   Hatchbox ABS (White) - 1.0 kg
+*   Overture PLA (Black) - 0.6 kg
+*   Overture PETG (Black) - 1.0 kg
+*   Overture PETG (Space Gray) - 0.75 kg
+
+_Note that quantities are approximate_
 
 ### Coast campus
 

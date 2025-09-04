@@ -51,10 +51,10 @@ body:
 - type: textarea
   id: stl-2d-cad
   attributes:
-    label: STL file/2D CAD image
+    label: STL file/2D CAD drawing
     description: |
       Attach a .zip file containing:
       - The STL file to print.
-      - A 2D CAD image in PNG/JPG format showing dimensions of your print with units (inches/cm) clearly visible. STL files are dimensionless; this ensures your print is the correct size.
+      - A 2D CAD drawing in .DWG/.PDF format showing dimensions of your print with units (inches/cm) clearly visible. STL files are dimensionless; this ensures your print is the correct size.
   validations:
     required: true

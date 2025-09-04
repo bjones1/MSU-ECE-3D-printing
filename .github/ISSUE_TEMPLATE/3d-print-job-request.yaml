@@ -1,6 +1,6 @@
 name: 3D print job request
 description: Submit this to begin the 3D printing process.
-title: "[PRINT] <title>"
+title: "[PRINT] <add your title here>"
 labels: ["Needs processing"]
 body:
 - type: dropdown
@@ -24,7 +24,7 @@ body:
       - Intro to ECE
       - Capstone Design I
       - Capstone Design II
-      - Research group.
+      - Research group
   validations:
     required: true
 - type: input

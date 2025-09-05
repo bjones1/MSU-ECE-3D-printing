@@ -59,7 +59,7 @@ Most projects will work perfectly when printed with either PLA or ABS material. 
 *   [Polymaker Filament](https://us.polymaker.com/collections/all)
 *   [Prusa Filament](https://www.prusa3d.com/category/filament/)
 
-**Colors & Materials Currently in Stock**
+**Colors & Materials Currently in Stock (1kg = 1 roll)**
 
 *   Bambulabs PLA Basic (Silver) - 3.3 kg
 *   Bambulabs Pla Basic (Matte Gray) - 2.2 kg

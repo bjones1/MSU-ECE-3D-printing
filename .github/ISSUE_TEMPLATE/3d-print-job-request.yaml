@@ -45,7 +45,7 @@ body:
   id: special-instructions
   attributes:
     label: Special instructions
-    description: We print using PLA. Do you want a specific color, or multiple colors? A different filament material, such as a fuzzy skin, or a rubber material?
+    description: We typically print with either ABS or PLA. Do you want a specific color, or multiple colors? A different filament material, like TPU? Or a different surface finish, like fuzzy skin?
   validations:
     required: false
 - type: textarea

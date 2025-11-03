@@ -61,14 +61,14 @@ Most projects will work perfectly when printed with either PLA or ABS material. 
 
 **Colors & Materials Currently in Stock (1 roll = 1kg)**
 
-*   Bambulabs PLA Basic (Silver) - 12.0 kg
+*   Bambulabs PLA Basic (Silver) - 10.0 kg
 *   Bambulabs PLA Basic (Matte Gray) - 1.0 kg
-*   Bambulabs PLA Basic (Black) - 3.5 kg
+*   Bambulabs PLA Basic (Black) - 1.5 kg
 *   Bambulabs PLA Basic (Yellow) - 2.0 kg
-*   Bambulabs ABS (Silver) - 26.0 kg
+*   Bambulabs ABS (Silver) - 22.0 kg
 *   Bambulabs PLA-CF (Black) - 0.5 kg
-*   Bambulabs ASA (White) - 3.0 kg
-*   Hatchbox ABS (Black) - 0.5 kg
+*   Bambulabs ASA (White) - 1.0 kg
+*   Hatchbox ABS (Black) - 0.2 kg
 *   Hatchbox ABS (Silver) - 0.3 kg
 *   Hatchbox ABS (White) - 1.0 kg
 *   Overture PLA (Black) - 0.6 kg

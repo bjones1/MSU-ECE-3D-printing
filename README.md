@@ -40,7 +40,7 @@ Design process
 --------------
 
 We recommend using either [onShape](https://www.onshape.com/en/) (a web
-application, no install needed) and
+application, no install needed) or
 [Fusion360](https://www.autodesk.com/products/fusion-360/overview) (a desktop
 application) to create your print. Both provide free, powerful CAD capabilities.
 
@@ -49,7 +49,7 @@ Available colors and materials
 
 ### Starkville campus
 
-Most projects will work perfectly when printed with either PLA or ABS material. The brand of the material does not really matter unless that manufacturer has a specific color you prefer over others. If strength or durability is a concern, please consult the wiki tab at the top of the page or contact one of the ECE MakerSpace student engineers. A list of colors currently in stock will be available below. (Keep in mind that requesting a specific color may delay your print if it is not stocked in the MakerSpace)
+Most projects will work perfectly when printed with either PLA or ABS material. If strength or durability is a concern, please consult the wiki tab at the top of the page or contact one of the ECE MakerSpace student engineers. The brand of the material does not matter unless that manufacturer has a specific color you prefer over others. Keep in mind that requesting a specific color may delay your print if it is not stocked in the MakerSpace. If your print will require more than two kilograms, you will need to provide your own filament. 
 
 **All Available Colors & Materials**
 
@@ -59,23 +59,21 @@ Most projects will work perfectly when printed with either PLA or ABS material. 
 *   [Polymaker Filament](https://us.polymaker.com/collections/all)
 *   [Prusa Filament](https://www.prusa3d.com/category/filament/)
 
-**Colors & Materials Currently in Stock (1 roll = 1kg)**
+**Colors & Materials Currently in Stock (Quantity may be limited)
 
-*   Bambulabs PLA Basic (Silver) - 10.0 kg
-*   Bambulabs PLA Basic (Matte Gray) - 1.0 kg
-*   Bambulabs PLA Basic (Black) - 0.5 kg
-*   Bambulabs PLA Basic (Yellow) - 2.0 kg
-*   Bambulabs ABS (Silver) - 22.0 kg
-*   Bambulabs PLA-CF (Black) - 0.5 kg
-*   Bambulabs ASA (White) - 1.0 kg
-*   Hatchbox ABS (Black) - 0.2 kg
-*   Hatchbox ABS (Silver) - 0.3 kg
-*   Hatchbox ABS (White) - 1.0 kg
-*   Overture PLA (Black) - 0.6 kg
-*   Overture PETG (Black) - 1.0 kg
-*   Overture PETG (Space Gray) - 0.75 kg
+*   PLA (Silver)
+*   PLA (Matte Gray)
+*   PLA (Black)
+*   PLA (Yellow)
+*   PLA-CF (Black)
+*   ABS (Silver) **Default/Recommended**
+*   ABS (Black)
+*   ABS (White)
+*   ASA (White)
+*   PETG (Black)
+*   PETG (Space Gray)
 
-_Note that quantities are approximate_
+_Please note that we reserve the right to use the filament we have rather than the filament you choose. We don't always have enough to print the entire order in what you may want._
 
 ### Coast campus
 

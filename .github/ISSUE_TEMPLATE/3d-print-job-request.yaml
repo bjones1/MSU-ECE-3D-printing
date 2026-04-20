@@ -25,13 +25,14 @@ body:
       - Capstone Design I
       - Capstone Design II
       - Research group
+      - Personal Project
   validations:
     required: true
 - type: input
   id: team-id
   attributes:
     label: Team ID/research group name
-    description: What is your team's assigned ID or your research group's name?
+    description: What is your team's assigned ID/Name or your research group's name?
   validations:
     required: true
 - type: textarea
@@ -45,7 +46,7 @@ body:
   id: special-instructions
   attributes:
     label: Special instructions
-    description: We typically print with either ABS or PLA. Do you want a specific color, or multiple colors? A different filament material, like TPU? Or a different surface finish, like fuzzy skin?
+    description: We typically print with either ABS or PLA. Do you want a specific color, or multiple colors? A different filament material, like TPU? Or a different surface finish, like fuzzy skin? If you don't know, giving an accurate description of its use will help us determine the best material for the job.
   validations:
     required: false
 - type: textarea
@@ -55,6 +56,6 @@ body:
     description: |
       Attach a .zip file containing:
       - The STL file to print.
-      - A 2D CAD drawing in .DWG/.PDF format showing dimensions of your print with units (inches/cm) clearly visible. STL files are dimensionless; this ensures your print is the correct size.
+      - A 2D CAD drawing in .DWG/.PDF format showing dimensions of your print with units clearly visible. STL files are dimensionless; this ensures your print is the correct size.
   validations:
     required: true
